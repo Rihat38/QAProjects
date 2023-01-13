@@ -1,0 +1,16 @@
+﻿{
+  "messagePatterns": [
+    {
+      "id": 101,
+      "title": "AlexExample",
+      "body": "example_body",
+      "userId": 1
+    },
+    {
+      "id": 99,
+      "title": "temporibus sit alias delectus eligendi possimus magni",
+      "body": "quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia",
+      "userId": 10
+    }
+  ]
+}

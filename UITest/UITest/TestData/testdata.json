@@ -1,0 +1,6 @@
+﻿{
+    "url": "https://userinyerface.com/",
+    "time":"00:00:00",
+    "locatorForUEStartPage": "//*[@class='start__button']",
+    "locatorForUEGamePage": "//*[@class='login-form']"
+}

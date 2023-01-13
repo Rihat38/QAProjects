@@ -1,0 +1,7 @@
+{
+  "browserName": "chrome",
+  "appUrl": "https://vk.com",
+  "apiAppUrl": "https://api.vk.com",
+  "access_token": "",
+  "version": "5.131"
+}
